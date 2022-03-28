@@ -12,7 +12,12 @@ Le « MTGStbgDevOps » est un groupe situé à Strasbourg qui a pour vocation de
 
 Le DevOps est un mouvement en ingénierie informatique et une pratique technique visant à l'unification du développement logiciel (dev) et de l'administration des infrastructures informatiques (ops), notamment l'administration système.
 Il se caractérise principalement par la promotion de l'automatisation et du suivi (monitoring) de toutes les étapes de la création d'un logiciel, depuis le développement, l'intégration, les tests, la livraison jusqu'au déploiement, l'exploitation et la maintenance des infrastructures. Les principes DevOps soutiennent des cycles de développement plus courts, une augmentation de la fréquence des déploiements et des livraisons continues, pour une meilleure atteinte des objectifs économiques de l'entreprise
- 
+
+### Ou nous retrouver ?
+
+Le groupe possède sont [blog](http://MTGStbgDevOps.github.io) et son compte [twitter](https://twitter.com/MTGStbgDevOps) sur lesquels nos différentes activités seront publiées régulièrement.
+
+D'autre moyen de communication sont encore à l'étude
 
 ### Qui sont les fondateurs du « MTG : Strasbourg DevOps » ?
 
